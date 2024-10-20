@@ -1,16 +1,21 @@
-# todo
+# Basic Todo App
 
-A new Flutter project.
+This is a basic Todo app built with Flutter and Firebase. The app demonstrates how to fetch data from a Firebase backend and showcases essential Flutter concepts.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as a starting point for Flutter applications and provides a foundation for further development. 
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart SDK
+- Firebase account (to set up a Firestore database)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/SAMAD-KHAN03/flutter_expense_tracker.git
+   cd flutter_expense_tracker
